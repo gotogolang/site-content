@@ -1,0 +1,16 @@
+name: Notify hub to redeploy
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger deploy in gotogolang.github.io
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.DEPLOY_TOKEN }}
+          repository: gotogolang/gotogolang.github.io
+          event-type: content-updated
