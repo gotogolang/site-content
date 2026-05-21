@@ -1,10 +1,10 @@
 ---
-title: "Hello, goalgo"
+title: "Hello, gotogolang"
 date:  2025-01-01
 tags:  ["meta"]
 ---
 
-goalgo is a platform for practicing algorithms in the browser using a real terminal.
+gotogolang is a platform for practicing algorithms in the browser using a real terminal.
 
 No setup, no local environment. Open a page, get a container running Go, solve a problem in vim.
 

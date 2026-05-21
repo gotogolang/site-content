@@ -1,6 +1,10 @@
 ---
-title: "Go"
-description: "Go exercises — basics and algorithms."
+title: "Go To Go!"
+description: "Практический курс по Go: теория и упражнения в браузерном терминале."
 ---
 
-Exercises run inside a Go 1.23 container with vim and gopls pre-configured.
+Практический курс по языку программирования Go.
+
+Каждая глава — немного теории и упражнения в браузерном терминале: реальный Go-контейнер, vim и gopls, без установки на локальную машину.
+
+Выбери главу в боковике и начни.

@@ -1,4 +1,4 @@
 ---
 title:       "Blog"
-description: "Notes on algorithms, Go, and building goalgo."
+description: "Notes on algorithms, Go, and building gotogolang."
 ---

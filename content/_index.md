@@ -1,10 +1,10 @@
 ---
-title: "goalgo"
+title: "gotogolang"
 description: "Algorithmic challenges. Terminal IDE. In the browser."
 ---
 
 ```
-> goalgo --help
+> gotogolang --help
 
   Practice algorithms with a real terminal.
   No setup. No installation. Just open and code.
