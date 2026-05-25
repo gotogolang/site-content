@@ -1,6 +1,5 @@
 ---
-params:
-  series: ["go-to-go"]
+series: ["go-to-go"]
 title:  "Что такое Go?"
 weight: 1
 ---

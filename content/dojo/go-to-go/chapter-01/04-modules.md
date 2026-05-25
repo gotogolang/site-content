@@ -1,6 +1,5 @@
 ---
-params:
-  series: ["go-to-go"]
+series: ["go-to-go"]
 title:  "Модули"
 weight: 4
 ---

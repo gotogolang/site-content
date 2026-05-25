@@ -1,6 +1,5 @@
 ---
-params:
-  series: ["go-to-go"]
+series: ["go-to-go"]
 title:  "Преобразование типов и константы"
 weight: 5
 ---

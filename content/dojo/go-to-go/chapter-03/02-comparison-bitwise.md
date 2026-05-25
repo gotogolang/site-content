@@ -1,6 +1,5 @@
 ---
-params:
-  series: ["go-to-go"]
+series: ["go-to-go"]
 title:  "Сравнение, логика и биты"
 weight: 2
 ---
