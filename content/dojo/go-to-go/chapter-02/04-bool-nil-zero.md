@@ -1,4 +1,6 @@
 ---
+params:
+  series: ["go-to-go"]
 title:  "Bool, nil и нулевые значения"
 weight: 4
 ---

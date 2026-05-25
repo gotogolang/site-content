@@ -5,8 +5,6 @@ exercise:   "go-func-01"
 difficulty: "easy"
 tags:       ["strings", "functions"]
 date:       2025-01-02
-_build:
-  list: never
 ---
 
 Implement `Reverse(s string) string` — returns the string in reverse order.

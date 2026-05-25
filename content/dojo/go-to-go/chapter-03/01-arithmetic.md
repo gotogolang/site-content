@@ -1,4 +1,6 @@
 ---
+params:
+  series: ["go-to-go"]
 title:  "Арифметика и присваивание"
 weight: 1
 ---

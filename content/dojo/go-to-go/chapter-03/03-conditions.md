@@ -1,4 +1,6 @@
 ---
+params:
+  series: ["go-to-go"]
 title:  "Условные конструкции"
 weight: 3
 ---

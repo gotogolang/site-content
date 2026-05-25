@@ -5,8 +5,6 @@ exercise:   "go-expr-01"
 difficulty: "easy"
 tags:       ["loops", "fmt"]
 date:       2025-01-01
-_build:
-  list: never
 ---
 
 Print a 5×5 multiplication table using nested loops.

@@ -1,4 +1,6 @@
 ---
+params:
+  series: ["go-to-go"]
 title:  "Числовые типы"
 weight: 2
 ---

@@ -5,8 +5,6 @@ exercise:   "go-multi-01"
 difficulty: "medium"
 tags:       ["packages", "slices", "testing"]
 date:       2025-01-03
-_build:
-  list: never
 ---
 
 Build a `mathutils` package with three functions over integer slices:

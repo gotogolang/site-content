@@ -1,4 +1,6 @@
 ---
+params:
+  series: ["go-to-go"]
 title:  "Первая программа"
 weight: 2
 ---
