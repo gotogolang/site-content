@@ -1,5 +1,5 @@
 ---
-title: "Go To Go!"
+title: "Goto Go!"
 description: "Базовый курс для опытных программистов, изучающих Go."
 weight: 10
 ---
