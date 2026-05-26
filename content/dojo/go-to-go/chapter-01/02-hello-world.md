@@ -1,7 +1,7 @@
 ---
 series: ["go-to-go"]
 title:  "Первая программа"
-weight: 2
+weight: 4
 ---
 
 ## Hello, World!

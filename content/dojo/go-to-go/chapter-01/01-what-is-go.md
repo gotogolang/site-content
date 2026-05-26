@@ -1,7 +1,7 @@
 ---
 series: ["go-to-go"]
 title:  "Что такое Go?"
-weight: 1
+weight: 3
 ---
 
 ## Краткая история
