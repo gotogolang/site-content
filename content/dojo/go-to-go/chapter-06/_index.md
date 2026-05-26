@@ -1,4 +1,4 @@
 ---
-title: "Хеш-карты (maps)"
-weight: 6
+title: "Глава 6. Хеш-карты (maps)"
+weight: 60
 ---

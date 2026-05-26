@@ -1,4 +1,4 @@
 ---
-title: "Универсальные типы (Generics)"
-weight: 9
+title: "Глава 9. Универсальные типы (Generics)"
+weight: 90
 ---
